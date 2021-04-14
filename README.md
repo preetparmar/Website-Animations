@@ -1,2 +1,11 @@
 # Website Animations
- Colection of my website animations
+
+Just creating a collection of all the animation I am learning on this new **Web Development** journey
+
+## Animations:
+
+- [Expanding Images Animation](https://github.com/preetparmar/Website-Animations/)
+
+## Credits:
+
+- 50 Projects In 50 Days - HTML, CSS & JavaScript Udemy Course
