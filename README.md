@@ -5,6 +5,7 @@ Just creating a collection of all the animation I am learning on this new **Web 
 ## Animations:
 
 - [Expanding Images Animation](https://github.com/preetparmar/Website-Animations/tree/main/Expanding%20Images)
+- [Progress Steps](https://github.com/preetparmar/Website-Animations/tree/main/Progress%20Steps)
 
 ## Credits:
 
