@@ -4,7 +4,7 @@ Clean and simple animation to register feedback from customers. I have used **El
 
 ## Animation Preview
 
-![Animation](https://github.com/preetparmar/Website-Animations/blob/main/Feedback%20UI%20Project/Animation/feedback-ui-gif.gif)
+![Animation](https://github.com/preetparmar/Website-Animations/blob/main/Feedback%20UI/Animation/feedback-ui-gif.gif)
 
 # Credits
 
