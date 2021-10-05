@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Muli", sans-serif;
+  display: flex;
+  height: 100vh;
+  margin: 0;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.container {
+  display: flex;
+  width: 90vw;
+}
+
+.panel {
+  color: white;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 80vh;
+  border-radius: 1em;
+  cursor: pointer;
+  flex: 0.5;
+  margin: 0.5em;
+  position: relative;
+  transition: flex 0.7s ease-in;
+
+  h3 {
+    font-size: 2em;
+    margin: 0;
+    position: absolute;
+    bottom: 0.5em;
+    left: 0.5em;
+    opacity: 0;
+  }
+}
+
+.panel.active {
+  flex: 5;
+
+  h3 {
+    opacity: 1;
+    transition: opacity 0.3s ease-in 0.4s;
+  }
+}
+
+// Displaying only 3 images when the screen size reduces
+@media (max-width: 800px) {
+  .container {
+    width: 100vw;
+  }
+
+  .panel:nth-of-type(4),
+  .panel:nth-of-type(5) {
+    display: none;
+  }
+}
