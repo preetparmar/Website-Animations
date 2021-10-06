@@ -1,4 +1,4 @@
-# Expanding Images Animation
+# Feedback UI
 
 Clean and simple animation to register feedback from customers. I have used **Element Bubbling** in order to select elements.
 
