@@ -1,6 +1,6 @@
 # Input Wave Form Animation
 
-Cool looking animation on selecting the input fields. I have used JavaScript to add innerText element and experimented with some delays.
+A cool looking animation which triggers when you select an input field.. I have used JavaScript to add innerText element and experimented with some delays.
 
 ## Animation Preview
 
